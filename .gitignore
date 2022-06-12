@@ -8,3 +8,5 @@ bundle/
 dist/
 tmp/
 settings.json
+.codechecker
+.vscode
